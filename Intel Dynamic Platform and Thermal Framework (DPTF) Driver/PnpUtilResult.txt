@@ -1,0 +1,2 @@
+\Source\dptf_acpi.inf PnpUtil return code 259
+\Source\dptf_cpu.inf PnpUtil return code 259
